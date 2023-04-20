@@ -1,0 +1,36 @@
+{
+  "type": "disambiguation",
+  "title": "Sergey Prokopyev",
+  "displaytitle": "<span class=\"mw-page-title-main\">Sergey Prokopyev</span>",
+  "namespace": { "id": 0, "text": "" },
+  "wikibase_item": "Q48962686",
+  "titles": {
+    "canonical": "Sergey_Prokopyev",
+    "normalized": "Sergey Prokopyev",
+    "display": "<span class=\"mw-page-title-main\">Sergey Prokopyev</span>"
+  },
+  "pageid": 56717368,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "990789065",
+  "tid": "b00e1030-7df3-11ed-9e45-df444c6b4ee8",
+  "timestamp": "2020-11-26T14:42:51Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sergey_Prokopyev",
+      "revisions": "https://en.wikipedia.org/wiki/Sergey_Prokopyev?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sergey_Prokopyev?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sergey_Prokopyev"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Sergey_Prokopyev",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Sergey_Prokopyev",
+      "edit": "https://en.m.wikipedia.org/wiki/Sergey_Prokopyev?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Sergey_Prokopyev"
+    }
+  },
+  "extract": "Sergey Prokopyev may refer to:Sergey Prokopyev \nSergey Prokopyev (cosmonaut)\n",
+  "extract_html": "<p><b>Sergey Prokopyev</b> may refer to:</p><ul><li>Sergey Prokopyev </li>\n<li>Sergey Prokopyev (cosmonaut)</li></ul>\n"
+}
